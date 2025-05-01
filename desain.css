@@ -44,7 +44,7 @@ a:hover,
 a:active {
   background-color: rgb(5, 247, 13);
 }
-@media only screen and (min-width: 576px) {
+@media only screen and (min-width: 768px) {
   .cta {
     font-size: 2.5rem;
     padding: 20px 60px;
